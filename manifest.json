@@ -1,0 +1,5 @@
+{
+    "author": "mierak",
+    "name": "discord",
+    "entry_point": "discord.lua"
+}
